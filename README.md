@@ -12,3 +12,5 @@
 * git checkout nueva-rama
 * git merge nueva-rama 'desde la rama master'
 * git push origin master
+* git remote para ver los remotos
+* git pull bajar archivos a local
